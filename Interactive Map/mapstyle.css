@@ -1,0 +1,75 @@
+/*
+ID codes europe.svg:
+  AL: "Albania",
+  AM: "Armenia",
+  AT: "Austria",
+  BA: "Bosnia and Herzegovina",
+  BE: "Belgium",
+  BG: "Bulgaria",
+  BY: "Belarus",
+  CH: "Switzerland",
+  CY: "Cyprus",
+  CZ: "Czech Republic",
+  DE: "Germany",
+  DK: "Denmark",
+  EE: "Estonia",
+  ES: "Spain",
+  FI: "Finland",
+  FR: "France",
+  GB: "United Kingdom",
+  GE: "Georgia",
+  GR: "Greece",
+  HR: "Croatia",
+  HU: "Hungary",
+  IE: "Ireland",
+  IS: "Iceland",
+  IT: "Italy",
+  LT: "Lithuania",
+  LU: "Luxembourg",
+  LV: "Latvia",
+  MD: "Moldova",
+  ME: "Montenegro",
+  MK: "North-Macedonia",
+  NL: "Netherlands",
+  NO: "Norway",
+  PL: "Poland",
+  PT: "Portugal",
+  RO: "Romania",
+  RS: "Serbia",
+  SE: "Sweden",
+  SI: "Slovenia",
+  SK: "Slovakia",
+  TR: "Turkey",
+  UA: "Ukraine",
+  XK: "Kosovo"
+*/
+@font-face {
+  font-family: OctarineLight;
+  font-style: normal;
+  font-weight: normal;
+  src: url(octarine.light.otf);
+}
+body {
+  font-family: OctarineLight;
+}
+p {
+  margin: 0px;
+}
+.country:hover {
+    fill: #24be24;
+}
+.EU {
+    fill: #18099b;
+
+}
+body {
+    background-color: rgb(21, 151, 202);
+}
+.moveAble {
+    position: absolute;
+}
+#infodiv {
+  display: flex;
+  width: 330px;
+  height: 80px;
+}

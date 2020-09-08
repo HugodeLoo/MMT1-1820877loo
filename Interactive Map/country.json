@@ -1,0 +1,310 @@
+[
+    {
+        "naam" : "Albanië",
+        "flag" : "albania",
+        "inwoners" : "3047987",
+        "oppervlakte" : "28748",
+        "hoofdstad" : "Tirana"
+    },
+    {
+        "naam" : "Armenië",
+        "flag" : "armenia",
+        "inwoners" : "2973000",
+        "oppervlakte" : "29743",
+        "hoofdstad" : "Jerevan"
+    },
+    {
+        "naam" : "Oostenrijk",
+        "flag" : "austria",
+        "inwoners" : "8822000",
+        "oppervlakte" : "83871",
+        "hoofdstad" : "Wien"
+    },
+    {
+        "naam" : "Bosnië Herzegovina",
+        "flag" : "bosniaherzegovina",
+        "inwoners" : "3502550",
+        "oppervlakte" : "51209",
+        "hoofdstad" : "Sarajevo"
+    },
+    {
+        "naam" : "België",
+        "flag" : "belgium",
+        "inwoners" : "11400000",
+        "oppervlakte" : "30689",
+        "hoofdstad" : "Brussel"
+    },
+    {
+        "naam" : "Bulgarije",
+        "flag" : "bulgaria",
+        "inwoners" : "7101510",
+        "oppervlakte" : "110900",
+        "hoofdstad" : "Sofia"
+    },
+    {
+        "naam" : "Wit-Rusland",
+        "flag" : "belarus",
+        "inwoners" : "9549747",
+        "oppervlakte" : "207600",
+        "hoofdstad" : "Minsk"
+    },
+    {
+        "naam" : "Zwitserland",
+        "flag" : "switzerland",
+        "inwoners" : "8236303",
+        "oppervlakte" : "41285",
+        "hoofdstad" : "Bern"
+    },
+    {
+        "naam" : "Cyprus",
+        "flag" : "cyprus",
+        "inwoners" : "1170000",
+        "oppervlakte" : "9251",
+        "hoofdstad" : "Nicosia"
+    },
+    {
+        "naam" : "Tsjechië",
+        "flag" : "czechrepublic",
+        "inwoners" : "10674723",
+        "oppervlakte" : "78866",
+        "hoofdstad" : "Praag"
+    },
+    {
+        "naam" : "Duitsland",
+        "flag" : "germany",
+        "inwoners" : "80594017",
+        "oppervlakte" : "357121",
+        "hoofdstad" : "Berlin"
+    },
+    {
+        "naam" : "Denemarken",
+        "flag" : "denmark",
+        "inwoners" : "5605948",
+        "oppervlakte" : "43094",
+        "hoofdstad" : "Kopenhagen"
+    },
+    {
+        "naam" : "Estland",
+        "flag" : "estonia",
+        "inwoners" : "1251581",
+        "oppervlakte" : "45339",
+        "hoofdstad" : "Tallinn"
+    },
+    {
+        "naam" : "Spanje",
+        "flag" : "spain",
+        "inwoners" : "48958159",
+        "oppervlakte" : "505992",
+        "hoofdstad" : "Madrid"
+    },
+    {
+        "naam" : "Finland",
+        "flag" : "finland",
+        "inwoners" : "5518371",
+        "oppervlakte" : "336855",
+        "hoofdstad" : "Helsinki"
+    },
+    {
+        "naam" : "Frankrijk",
+        "flag" : "france",
+        "inwoners" : "62814233",
+        "oppervlakte" : "551500",
+        "hoofdstad" : "Parijs"
+    },
+    {
+        "naam" : "Groot Britanië",
+        "flag" : "greatbritain",
+        "inwoners" : "60800000",
+        "oppervlakte" : "209331",
+        "hoofdstad" : "London"
+    },
+    {
+        "naam" : "Georgië",
+        "flag" : "georgia",
+        "inwoners" : "4926330",
+        "oppervlakte" : "69700",
+        "hoofdstad" : "Tbilisi"
+    },
+    {
+        "naam" : "Griekenland",
+        "flag" : "greece",
+        "inwoners" : "10768477",
+        "oppervlakte" : "131957",
+        "hoofdstad" : "Athene"
+    },
+    {
+        "naam" : "Kroatië",
+        "flag" : "croatia",
+        "inwoners" : "4292095",
+        "oppervlakte" : "56594",
+        "hoofdstad" : "Zagreb"
+    },
+    {
+        "naam" : "Hongarije",
+        "flag" : "hungary",
+        "inwoners" : "9850845",
+        "oppervlakte" : "93024",
+        "hoofdstad" : "Budapest"
+    },
+    {
+        "naam" : "Ierland",
+        "flag" : "ireland",
+        "inwoners" : "5011102",
+        "oppervlakte" : "69825",
+        "hoofdstad" : "Dublin"
+    },
+    {
+        "naam" : "Ijsland",
+        "flag" : "iceland",
+        "inwoners" : "339747",
+        "oppervlakte" : "103000",
+        "hoofdstad" : "Reykjavik"
+    },
+    {
+        "naam" : "Italië",
+        "flag" : "italy",
+        "inwoners" : "62137802",
+        "oppervlakte" : "301339",
+        "hoofdstad" : "Rome"
+    },
+    {
+        "naam" : "Litouwen",
+        "flag" : "lithuania",
+        "inwoners" : "3823859",
+        "oppervlakte" : "65300",
+        "hoofdstad" : "Vilnius"
+    },
+    {
+        "naam" : "Luxemburg",
+        "flag" : "luxembourg",
+        "inwoners" : "594130",
+        "oppervlakte" : "2586",
+        "hoofdstad" : "Luxemburg"
+    },
+    {
+        "naam" : "Letland",
+        "flag" : "latvia",
+        "inwoners" : "1944643",
+        "oppervlakte" : "64562",
+        "hoofdstad" : "Riga"
+    },
+    {
+        "naam" : "Moldavië",
+        "flag" : "moldova",
+        "inwoners" : "3474121",
+        "oppervlakte" : "33846",
+        "hoofdstad" : "Chisinau"
+    },
+    {
+        "naam" : "Montenegro",
+        "flag" : "montenegro",
+        "inwoners" : "642550",
+        "oppervlakte" : "13812",
+        "hoofdstad" : "Podgorica"
+    },
+    {
+        "naam" : "Noord-Macedonië",
+        "flag" : "northmacedonia",
+        "inwoners" : "2103721",
+        "oppervlakte" : "25713",
+        "hoofdstad" : "Skopje"
+    },
+    {
+        "naam" : "Nederland",
+        "flag" : "netherlands",
+        "inwoners" : "17084719",
+        "oppervlakte" : "41543",
+        "hoofdstad" : "Amsterdam"
+    },
+    {
+        "naam" : "Noorwegen",
+        "flag" : "norway",
+        "inwoners" : "5328212",
+        "oppervlakte" : "323787",
+        "hoofdstad" : "Oslo"
+    },
+    {
+        "naam" : "Polen",
+        "flag" : "poland",
+        "inwoners" : "38476269",
+        "oppervlakte" : "311888",
+        "hoofdstad" : "Warschau"
+    },
+    {
+        "naam" : "Portugal",
+        "flag" : "portugal",
+        "inwoners" : "10839514",
+        "oppervlakte" : "92212",
+        "hoofdstad" : "Lissabon"
+    },
+    {
+        "naam" : "Roemenië",
+        "flag" : "romania",
+        "inwoners" : "21529967",
+        "oppervlakte" : "238391",
+        "hoofdstad" : "Boekarest"
+    },
+    {
+        "naam" : "Servië",
+        "flag" : "serbia",
+        "inwoners" : "7111024",
+        "oppervlakte" : "77474",
+        "hoofdstad" : "Belgrado"
+    },
+    {
+        "naam" : "Zweden",
+        "flag" : "sweden",
+        "inwoners" : "9960487",
+        "oppervlakte" : "450295",
+        "hoofdstad" : "Stockholm"
+    },
+    {
+        "naam" : "Slovenië",
+        "flag" : "slovenia",
+        "inwoners" : "1972126",
+        "oppervlakte" : "20373",
+        "hoofdstad" : "Ljubljana"
+    },
+    {
+        "naam" : "Slowakije",
+        "flag" : "slovakia",
+        "inwoners" : "5445829",
+        "oppervlakte" : "49036",
+        "hoofdstad" : "Bratislava"
+    },
+    {
+        "naam" : "Turkije",
+        "flag" : "turkey",
+        "inwoners" : "80845215",
+        "oppervlakte" : "783562",
+        "hoofdstad" : "Ankara"
+    },
+    {
+        "naam" : "Oekraïne",
+        "flag" : "ukraine",
+        "inwoners" : "44033874",
+        "oppervlakte" : "603500",
+        "hoofdstad" : "Kiev"
+    },
+    {
+        "naam" : "Kosovo",
+        "flag" : "kosovo",
+        "inwoners" : "1895250",
+        "oppervlakte" : "10887",
+        "hoofdstad" : "Pristina"
+    },
+    {
+        "naam" : "Andorra",
+        "flag" : "andorra",
+        "inwoners" : "76965",
+        "oppervlakte" : "468",
+        "hoofdstad" : "Andorra la Vella"
+    },
+    {
+        "naam" : "Liechtenstein",
+        "flag" : "liechtenstein",
+        "inwoners" : "38244",
+        "oppervlakte" : "160",
+        "hoofdstad" : "Vaduz"
+    }
+]
