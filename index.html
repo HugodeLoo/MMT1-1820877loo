@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>hoofd webpagina</title>
+        <style>
+            body {
+                margin: 0px;
+            }
+            a {
+                text-decoration: none;
+                color: black;
+            }
+            h1 {
+                padding-top: 5px;
+            }
+
+            h4 {
+                font-size: 700%;
+                padding-top: 5px;
+                margin: 15px;
+                color: white;
+            }
+
+            #header {
+                display: grid;
+                grid-template-columns: 25% 50% 25%;
+                height: 140px;
+                text-align: center;
+                background-color: rgb(46, 45, 45);
+            }
+            #main {
+                display: grid;
+                grid-template-columns: 15% 70% 15%;
+            }
+            #txtdiv {
+                height: 75vh;
+                padding: 15px;
+            }
+            #iframediv {
+                height: 75vh;
+                padding: 15px;
+            }
+            #content {
+                display: flex;
+                flex-direction: column;
+            }
+            .spacer {
+                height: 50px;
+            }
+            .link {
+                height: 80px;
+                border-radius: 10px;
+                background: #cfcfcf;
+                text-align: center;
+            }
+            @media screen and (max-width: 1505px) {
+                h4 {
+                    font-size: 500%;
+                }
+                #header {
+                    height: 110px;
+                }
+            }
+            
+            @media screen and (max-width: 1100px) {
+                h4 {
+                    font-size: 300%;
+                }
+                #header {
+                    height: 80px;
+                }
+            }
+
+            @media screen and (max-width: 700px) {
+                h4 {
+                    font-size: 200%;
+                }
+                #header {
+                    height: 60px;
+                }
+            }
+        </style>
+    </head>
+    <body>
+        <div id="header">
+            <div></div>
+            <div><h4>Hugo de Loo</h4></div>
+            <div></div>
+        </div>
+        <div id="main">
+            <div></div>
+            <div id="content">
+                <div class="spacer"></div>
+                <div class="link"><h1><a href="awesome/index.html">Awesome pagina</a></h1></div>
+                <div class="spacer"></div>
+                <div class="link"><h1><a href="my-favourite-movie/index.html">Movie pagina</a></h1></div>
+                <div class="spacer"></div>
+                <div class="link"><h1>To Be Announced</h1></div>
+                <div class="spacer"></div>
+                <div class="link"><h1>To Be Announced</h1></div>
+                <div class="spacer"></div>
+                <div class="link"><h1>To Be Announced</h1></div>
+            </div>
+            <div></div>
+        </div>
+    </body>
+</html>
